@@ -1,2 +1,3 @@
 config:
   info: "7777"
+#crul -X POST "http://localhost:3344/actuator/bus-refresh" 
